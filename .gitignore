@@ -1,0 +1,15 @@
+Library/
+Temp/
+Logs/
+obj/
+.vs/
+.vscode/
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.apk
+*.aab
+.DS_Store
+Packages/
+ProjectSettings/
