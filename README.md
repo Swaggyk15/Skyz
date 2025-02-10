@@ -15,6 +15,4 @@ A cockpit simulation to enhance first-person immersion.
 Real-world physics-based terrain to create a dynamic environment where the helicopter can freely navigate.
 
 If you're curious to see the simulator in action, check out the demo video I have:
-![Helicopter Flight Simulator Demo](https://github.com/Swaggyk15/Skyz/raw/main/Skyz_demo.mp4)
-
-_Click [here](https://github.com/Swaggyk15/Skyz/raw/main/Skyz_demo.mp4) to watch the full demo.
+https://github.com/Swaggyk15/Skyz/raw/main/Skyz_demo.mp4
